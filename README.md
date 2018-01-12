@@ -10,3 +10,4 @@ Records are immutable
 Computational Logic 
 
 https://www.youtube.com/watch?v=5ArZxRdhyPc
+https://www.slideshare.net/YaoYao44/blockchain-security-and-demonstration
